@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.springframework.web: info
+  file: petclinic.log
